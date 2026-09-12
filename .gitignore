@@ -1,0 +1,9 @@
+# compiled AROS executables (build artifacts)
+midi-info
+midi-recv
+midi-send
+
+# object files, debug files, editor backups
+*.o
+*.dbg
+*~
